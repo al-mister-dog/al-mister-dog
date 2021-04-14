@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @al-mister-dog
-- 👀 I’m interested in ... footy, music and history!
+- 👀 I’m interested in ... footy, music, travel and history!
 - 🌱 I’m currently learning ... sql
 - 💞️ I’m looking to collaborate on ... nodejs modules
 - 📫 How to reach me ... almrdog@gmail.com
