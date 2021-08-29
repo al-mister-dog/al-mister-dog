@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @al-mister-dog
+- 👋 Hi, I’m @al-mister-dog, 
 - 👀 I’m interested in ... footy, music, travel and history!
-- 🌱 I’m currently learning ... tdd, google cloud platform
-- 💞️ I’m looking to collaborate on ... nodejs modules
+- 🔧 I'm working mostly with node.js, vue and SQL
+- 🌱 I’m currently learning ... tdd, react and google cloud platform
+- 💞️ I’m looking to collaborate on ... npm packages, databases
 - 📫 How to reach me ... almrdog@gmail.com
 
 <!---
