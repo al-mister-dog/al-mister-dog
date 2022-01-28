@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @al-mister-dog, 
 - 👀 I’m interested in ... footy, music, travel and history!
-- 🔧 I'm working mostly with node.js, react, vue and SQL
-- 🌱 I’m currently learning ... tdd, redux, mui, aws and shadow-dom
-- 💞️ I’m looking to collaborate on ... npm packages, databases
+- 🔧 I'm working mostly with node.js, react, sql
+- 🌱 I’m currently learning ... cypress, redux-toolkit, mui, circleci
+- 💞️ I’m looking to collaborate on ... educational/financial apps
 - 📫 How to reach me ... almrdog@gmail.com
 
 <!---
