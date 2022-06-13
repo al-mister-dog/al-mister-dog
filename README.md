@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @al-mister-dog, 
 - 👀 I’m interested in ... footy, music, travel and history!
-- 🔧 I'm working mostly with typescript, react, nodejs
-- 🌱 I’m currently learning ... domain-driven-development, c#
+- 🔧 I'm working mostly with typescript, python
+- 🌱 I’m currently learning ... c#, django
 - 💞️ I’m looking to collaborate on ... educational/financial apps
 - 📫 How to reach me ... almrdog@gmail.com
 
