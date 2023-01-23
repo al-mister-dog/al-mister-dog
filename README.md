@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @al-mister-dog, 
 - 👀 I’m interested in ... footy, music, travel and history!
-- 🔧 I'm working mostly with typescript, next-js, redux-toolkit
+- 🔧 I'm working mostly with typescript, ruby
 - 🌱 I’m currently learning ... data structures
 - 💞️ I’m looking to collaborate on ... educational/financial apps
 - 📫 How to reach me ... almrdog@gmail.com
