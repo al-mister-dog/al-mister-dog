@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @al-mister-dog, 
 - 👀 I’m interested in ... footy, music, travel and history!
 - 🔧 I'm working mostly with typescript, ruby
-- 🌱 I’m currently learning ... tailwind
+- 🌱 I’m currently learning ... Rails
 - 💞️ I’m looking to collaborate on ... educational/financial apps
 - 📫 How to reach me ... almrdog@gmail.com
 
