@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @al-mister-dog, 
 - 👀 I’m interested in ... climbing, footy, music, travel and history!
-- 🔧 Javascript, Ruby, SQL, Blender, Unity
+- 🔧 Javascript, Ruby, Postgresql, Blender, Unity
 - 📫 How to reach me ... almrdog@gmail.com
 
 <!---
